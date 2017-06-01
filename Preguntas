@@ -1,0 +1,10 @@
+#Respuestas
+
+1. La aplicación se despliega en un array llamado con Angular.js, y recorre las 10 primeras posiciones de la lista de personajes.
+2. Las clases y objetos creadas tienen una funcionalidad única, y cada una depende de las demás para funcionar.
+3. Varios estilos pueden ser reutilizables, pero no se aprovecha su recursividad al máximo.
+4. La refactorización evita el código muerto y el código de espagueti, y brinda una facilidad de comprensión al código.
+5. El principio de responsabilidad única, establece que una clase debe tener solo una única razón para cambiar; esto quiere decir que una clase no puede tener más de una responsabilidad
+Dos aspectos claves en este principio son: la cohesión (unificar cosas que se relacionan entre sí), y el acoplamiento (el grado de relación de un módulo con el resto).
+6. El buen código limpio, definido por Robert C. Martin (Ingeniero de Software, escritor del libro Código Limpio, manual de estilo para el desarrollo ágil del software), define que la belleza
+está en los detalles, y cualquier fallo de construcción acaba con el encanto de todo. Si un fragmento de código no se encuentra en el lugar esperado, es necesario refactorizar hasta conseguirlo.
